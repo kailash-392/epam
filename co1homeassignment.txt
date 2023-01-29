@@ -1,0 +1,9 @@
+1.Complete and practice all git commands till branching push that text file in your git hub repository
+
+2.Write the command for the following statements
+	a)PUSH
+	b)PULL
+3.How to config git folder in your local repository
+
+4.Explain SDLC indetail
+5.write the difference between error,bug,virus indetail with a sample example
